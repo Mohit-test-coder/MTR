@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-02T13:51:22 IST" name="Default suite" finished-at="2024-12-02T13:53:25 IST" duration-ms="123001">
+    <groups>
+    </groups>
+    <test started-at="2024-12-02T13:51:22 IST" name="Default test" finished-at="2024-12-02T13:53:25 IST" duration-ms="123001">
+      <class name="Test.MXApp">
+        <test-method is-config="true" signature="SteUp()[pri:0, instance:Test.MXApp@17497425]" started-at="2024-12-02T13:51:22 IST" name="SteUp" finished-at="2024-12-02T13:52:22 IST" duration-ms="59992" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SteUp -->
+        <test-method signature="testgeneralStore()[pri:0, instance:Test.MXApp@17497425]" started-at="2024-12-02T13:52:22 IST" name="testgeneralStore" finished-at="2024-12-02T13:52:22 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testgeneralStore -->
+        <test-method signature="Touch()[pri:1, instance:Test.MXApp@17497425]" started-at="2024-12-02T13:52:22 IST" name="Touch" finished-at="2024-12-02T13:52:37 IST" duration-ms="15145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Touch -->
+        <test-method signature="scrolll()[pri:2, instance:Test.MXApp@17497425]" started-at="2024-12-02T13:52:37 IST" name="scrolll" finished-at="2024-12-02T13:53:05 IST" duration-ms="27511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrolll -->
+        <test-method signature="click()[pri:3, instance:Test.MXApp@17497425]" started-at="2024-12-02T13:53:05 IST" name="click" finished-at="2024-12-02T13:53:18 IST" duration-ms="13199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click -->
+        <test-method signature="send()[pri:4, instance:Test.MXApp@17497425]" started-at="2024-12-02T13:53:18 IST" name="send" finished-at="2024-12-02T13:53:25 IST" duration-ms="7011" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- send -->
+      </class> <!-- Test.MXApp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
